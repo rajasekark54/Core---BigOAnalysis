@@ -6,23 +6,25 @@ I created this repository for personal reference, and I hope it also serves as a
 
 ## Folder Structure
 
+<pre>
 .
 ├── README.md
 ├── Space_Complexity
-│ ├── 1_Constant_Space_O(1).js
-│ ├── 2_Logarithmic_Space_O(log n).js
-│ ├── 3_Linear_Space_O(n).js
-│ ├── 4_LogLinear_Space_O(n log n).js
-│ ├── 5_Quadratic_Space_O(n^2).js
-│ └── 6_Exponential_Space_O(2^n).js
+│   ├── 1_Constant_Space_O(1).js
+│   ├── 2_Logarithmic_Space_O(log n).js
+│   ├── 3_Linear_Space_O(n).js
+│   ├── 4_LogLinear_Space_O(n log n).js
+│   ├── 5_Quadratic_Space_O(n^2).js
+│   └── 6_Exponential_Space_O(2^n).js
 └── Time_Complexity
-├── 1_Constant_Time_O(1).js
-├── 2_Logarithmic_Time_O(log n).js
-├── 3_Linear_Time_O(n).js
-├── 4_LogLinear_Time_O(n log n).js
-├── 5_Quadratic_Time_O(n^2).js
-├── 6_Exponential_Time_O(2^n).js
-└── 7_Factorial_Time_O(n!).js
+    ├── 1_Constant_Time_O(1).js
+    ├── 2_Logarithmic_Time_O(log n).js
+    ├── 3_Linear_Time_O(n).js
+    ├── 4_LogLinear_Time_O(n log n).js
+    ├── 5_Quadratic_Time_O(n^2).js
+    ├── 6_Exponential_Time_O(2^n).js
+    └── 7_Factorial_Time_O(n!).js
+</pre>
 
 ## Space Complexity Examples
 
